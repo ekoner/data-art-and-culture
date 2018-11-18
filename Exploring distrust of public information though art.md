@@ -1,25 +1,29 @@
 # Exploring distrust of public information though art
 
-Lecture by Alistair Gentry (Data as culture embedded artist in residence at the ODI)
+Lecture by **[Alistair Gentry](https://alistairgentry.net/)** (Data as culture embedded artist in residence at the [ODI](https://theodi.org/))
 
-ODI Fridays lunchtime lectures supported by data.world
+**Source**: ODI Fridays lunchtime lectures supported by [data.world](https://data.world/)
 
-2 November 2018
+**2 November 2018**
 ———————————————————————————————————
 
 Connecting people, ideas, and things.
 
 ## Award yourself!
 
-You know you've made it as an artist when there’s a doll made of you, for example Frida Kahlo's.
+You know you've made it as an artist when there’s a doll made of you, for example Frida Kahlo's. 
 
-Henrik Ibsen was tired of being nominated and not winning awards, so bought medals for himself which he wore around Oslo. **Alistair** *I think I missed out that his self-awarded medals weren't all fake, he employed an honours broker to get legit medals for him to wear around Oslo.*
+»[**The Guardian**: Frida Kahlo’s great-niece calls for Barbie doll to be redesigned](https://www.theguardian.com/artanddesign/2018/mar/09/artists-great-niece-calls-for-frida-kahlo-barbie-doll-to-be-redesigned)«
+
+Henrik Ibsen was tired of being nominated and not winning awards, so bought medals for himself which he wore around Oslo. 
+
+»**Alistair**: *I think I missed out that his self-awarded medals weren't all fake, he employed an honours broker to get legit medals for him to wear around Oslo.*«
 
 
 
 ## Performance lectures 
 
-A lecture in character which is not necessarily factual. You can do a lecture about things that don’t exist or in the character doesn’t exist or is in the past. You can created horrifying experiences for the audience rather than didactic, educational lecture format.
+A lecture in character which is not necessarily factual. You can do a lecture about things that don’t exist or in the character doesn’t exist or is in the past. You can create horrifying experiences for the audience rather than didactic, educational lecture format.
 
 ## Ritual and irrationality 
 
@@ -27,7 +31,7 @@ Temptation to think we are not irrational or prey to ritual e.g. shouting at com
 
 ## Institutions and authority 
 
-Museums and art galleries have a lot of mistuque and authority. Ritual dress in modern form for example hiviz jackets make you disappear because they mark you has a certain type of worker which allows you to do things without being challenged. ID cards are not scrutinesed. We trust the ID. 
+Museums and art galleries have a lot of mystique and authority. Ritual dress in modern form for example hiviz jackets make you disappear because they mark you has a certain type of worker which allows you to do things without being challenged. ID cards are not scrutinesed. We trust the ID. 
 
 ## Satire and humour
 
@@ -35,7 +39,7 @@ Alistair likes to employ satire and humour - he shows people how they were caugh
 
 ## Magical Realism 
 
-A touring show 90 minutes long that went out to art galleries, universities and all kinds of strange places. A period in our history loosely based on John Dee - court wizard in the Elizabethan court - no word for scientist. One foot in ritual one foot in science. He did lecture tours talking about mathematics, equations, optics, lenses, algebra. His flying mechanical beetle, created at university, scared people so much he was accused of witchcraft. He also did seances communicating with the spirit world which he called the angelic world. He worked with a convicted fraudster and government agent Edward Kelly. The angels via Edward Kelly, the medium, said “Don’t trust Edward Kelly”. Even a stopped clock tells the time twice a day. 
+A touring show 90 minutes long that went out to art galleries, universities and all kinds of strange places. Based on a period in our history loosely based on [John Dee](https://en.wikipedia.org/wiki/John_Dee) - court wizard in the Elizabethan court - there was no word then for scientist. One foot in ritual one foot in science. He did lecture tours talking about mathematics, equations, optics, lenses, algebra. His flying mechanical beetle, created at university, scared people so much he was accused of witchcraft. He also did seances communicating with the spirit world which he called the angelic world. He worked with a convicted fraudster and government agent Edward Kelly. The angels via Edward Kelly, the medium, said “Don’t trust Edward Kelly”. Even a stopped clock tells the time twice a day. 
 
 Close parallels between then and now. Hysteria around catholic conspirators. There were real extremists and also a lot of paranoia around who was an extremist and who wasn’t. Like now, law-abiding Muslims get swept up in extremist narrative.
 
@@ -49,15 +53,15 @@ Using analog equipment and the Argos catalogue almost like the i-ching. Modelled
 
 ##  Fake tourist board
 
-Isle of Portland supplies the stone used in many official building. Isle is secretive and hollowed out. Close knit community. All th information in the tourist board was false. Tourism being all about stories. Some spectacularly self-evidently magnificent which acropolis is ruins so you have to use your imagination to recreate the glory of the site. Archaeology sites even more so as many are a hole in the ground. People are erased or not even included in history: Women, people of colour, illiterate, LGBT are not recorded. History is essentially erasing the majority of people to record a minority. To include these people in history sometimes means making them up. Tourist board included themes of authority, satire, performance lecture etc. Suturing - being sewn in and obeying the rules of the world while you’re in it. Even painting is suturing, bringing you into another world they’ve created through their art. Difference is place and time.
+[Isle of Portland](https://en.wikipedia.org/wiki/Isle_of_Portland) supplies the stone used in many official building. Isle is secretive and hollowed out. Close knit community. All th information in the tourist board was false. Tourism being all about stories. Some spectacularly self-evidently magnificent which acropolis is ruins so you have to use your imagination to recreate the glory of the site. Archaeology sites even more so as many are a hole in the ground. People are erased or not even included in history: Women, people of colour, illiterate, LGBT are not recorded. History is essentially erasing the majority of people to record a minority. To include these people in history sometimes means making them up. Tourist board included themes of authority, satire, performance lecture etc. Suturing - being sewn in and obeying the rules of the world while you’re in it. Even painting is suturing, bringing you into another world they’ve created through their art. Difference is place and time.
 
 ## Wizard of Oz AI
 
-Coined by someone else - the tech and data industry’s tendency to upplay the sophistication of what they do. All industrial revolutions are propped up by the unseen contributions of human beings. Including AI front end with a human back end force. UI on top of something like mechanical Turk - Amazon’s token payment service to do menial, disempowered, gig-economy work. People are increasingly trusting machines more than people. Breach of trust - person in disguise. Can also be a good thing as in Wizard of Oz, he gives the characters what they want (which is in them anyway). In th ebooks the emerald city is also false, people wear emerald glasses and never take them off outside your own home. Great metaphor for the tech period we’re in. Idea that you can be telling lies to people but in some cases can still lead to a good conclusion .
+Coined by someone else - the tech and data industry’s tendency to upplay the sophistication of what they do. All industrial revolutions are propped up by the unseen contributions of human beings. Including AI front end with a human back end force. UI on top of something like mechanical Turk - Amazon’s token payment service to do menial, disempowered, gig-economy work. People are increasingly trusting machines more than people. Breach of trust - person in disguise. Can also be a good thing as in Wizard of Oz, he gives the characters what they want (which is in them anyway). In the books the emerald city is also false, people wear emerald glasses and never take them off outside their homes. Great metaphor for the tech period we’re in. Idea that you can be telling lies to people but in some cases can still lead to a good conclusion.
 
 ## Tech Bros
 
-Featuring Elon Musk smoking weed in public. Some of us have more reason to trust technology and data than others and some of us are more impacted more than others. By the overriding moral framework of the tech and data industries which is largely dominated by white males, of a certain libertarian viewpoint which impacts the decisions they make and technology that is created. Example, noting to hide, don’t care if anyone knows where I live. Lots of people for whom this is undesirable, black males who can be shot dead, spouses being stalked.
+Featuring [Elon Musk smoking weed in public](https://www.theguardian.com/technology/2018/sep/07/tesla-chief-elon-musk-smokes-marijuana-on-live-web-show). Some of us have more reason to trust technology and data than others and some of us are more impacted more than others. The overriding moral framework of the tech and data industries which is largely dominated by white males, of a certain libertarian viewpoint which impacts the decisions they make and technology that is created. Example, nothing to hide, don’t care if anyone knows where I live. Lots of people for whom this is undesirable, black males who can be shot dead, spouses being stalked.
 
 ##  The Palantir 
 
@@ -65,7 +69,7 @@ The name of Peter Thiels security AI company. Disruptive industries seem to love
 
 ## Manal al-Sharif 
 
-Downsides falling disproportionately on some people - self-exiled from Saudi Arabia. She is a women’s rights activist - women being allowed to drive. She was careful to avoid things women are accused of - reasonable tone - tone policing. Massive harassment online and by authorities. At a conference in Norway, she removed herself from social networks. [Add quote here]. She has decide she needs to find other ways to carry out the activism. Cost vs Benefit isn’t there anymore. Unable to trust the systems that now surround us constantly. Tanzania and Chechnya rounding up gay men via social media and dating apps. Crude but effective network friend graph similar to Maltego.
+Downsides falling disproportionately on some people - self-exiled from Saudi Arabia. She is a women’s rights activist - women being allowed to drive. She was careful to avoid things women are accused of - reasonable tone - tone policing. Massive harassment online and by authorities. At a conference in Norway, she removed herself from social networks. "Twitter is really a powerful tool, and its being used against us. If the same tools we joined for our liberation are being used to oppress us and undermine us, and used to spread fake news and hate, I’m out of these platforms" - [Why I deleted my Twitter account](https://www.youtube.com/watch?v=8regaO3hl_g&feature=youtu.be). She has decide she needs to find other ways to carry out the activism. Cost vs Benefit isn’t there anymore. Unable to trust the systems that now surround us constantly. Tanzania and Chechnya rounding up gay men via social media and dating apps. Crude but effective network friend graph similar to Maltego.
 
 ## Pipo-kun 
 
