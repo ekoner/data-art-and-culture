@@ -55,7 +55,7 @@ Isle of Portland supplies the stone used in many official building. Isle is secr
 
 Coined by someone else - the tech and data industry’s tendency to upplay the sophistication of what they do. All industrial revolutions are propped up by the unseen contributions of human beings. Including AI front end with a human back end force. UI on top of something like mechanical Turk - Amazon’s token payment service to do menial, disempowered, gig-economy work. People are increasingly trusting machines more than people. Breach of trust - person in disguise. Can also be a good thing as in Wizard of Oz, he gives the characters what they want (which is in them anyway). In th ebooks the emerald city is also false, people wear emerald glasses and never take them off outside your own home. Great metaphor for the tech period we’re in. Idea that you can be telling lies to people but in some cases can still lead to a good conclusion .
 
-##Tech Bros
+## Tech Bros
 
 Featuring Elon Musk smoking weed in public. Some of us have more reason to trust technology and data than others and some of us are more impacted more than others. By the overriding moral framework of the tech and data industries which is largely dominated by white males, of a certain libertarian viewpoint which impacts the decisions they make and technology that is created. Example, noting to hide, don’t care if anyone knows where I live. Lots of people for whom this is undesirable, black males who can be shot dead, spouses being stalked.
 
